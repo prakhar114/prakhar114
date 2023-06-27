@@ -10,7 +10,7 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/ONEV2/ONEV2/blob/main/Gif/wave.gif" width="20" /> I’m *currently* **Fighting over lora** 💔 *and 4g* ❤️‍🩹 
+- <img alt="GIF" src="https://github.com/ONEV2/ONEV2/blob/main/Gif/wave.gif" width="20" /> I’m *currently* **Fighting over FPGA** 💔 *and SOC* ❤️‍🩹 
 - <img alt="GIF" src="https://github.com/ONEV2/ONEV2/blob/main/Gif/gandalf_parrot.gif" width="20" /> **Exploring** the world of **System Software Development with a touch of Embedded on top**
 - <img alt="GIF" src="http://clipart-library.com/img/2087505.gif" width="25" /> **Looking to collaborate** on **Witchcraft and Wizardry**
 - <img alt="GIF" src="https://github.com/ONEV2/ONEV2/blob/main/Gif/hmm.gif" width="20" /> Like to spend sometime on **Kindle** 📘 and **Tinkering** 🐼
